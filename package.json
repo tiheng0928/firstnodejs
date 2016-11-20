@@ -1,13 +1,22 @@
 {
-"name": "tiheng",
-"version": "1.0.0",
-"private": true,
-"main": "all.js",
-"dependencies": {
-	"express": "4.5.1",
-	"mongodb": "1.4.7",
-	"mongoose": "3.8.12",
-	"socket.io": "0.9.17"
-	}
-
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "firstnode",
+  "main": "all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiheng0928/firstnodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "tiheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiheng0928/firstnodejs/issues"
+  },
+  "homepage": "https://github.com/tiheng0928/firstnodejs#readme"
 }
