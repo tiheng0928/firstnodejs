@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tiheng0928/firstnodejs/issues"
   },
-  "homepage": "https://github.com/tiheng0928/firstnodejs#readme"
+  "homepage": "https://github.com/tiheng0928/firstnodejs#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
