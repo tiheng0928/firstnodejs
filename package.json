@@ -1,7 +1,8 @@
 {
-"name": "fristnode",
-"version": "0.0.1",
+"name": "tiheng",
+"version": "1.0.0",
 "private": true,
+"main": "all.js"
 "dependencies": {
 	"express": "4.5.1",
 	"mongodb": "1.4.7",
