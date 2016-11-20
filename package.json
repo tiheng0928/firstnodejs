@@ -6,7 +6,6 @@
     "express": "4.5.1",
     "mongodb": "1.4.7",
     "mongoose": "3.8.12",
-    "nodemon": "^1.11.0",
     "socket.io": "0.9.17"
   }
 }
